@@ -8,3 +8,4 @@
 add_lunch_combo omni_a54x-user
 add_lunch_combo omni_a54x-userdebug
 add_lunch_combo omni_a54x-eng
+
